@@ -3,3 +3,4 @@
 
 this is first chapter of Git.
 
+We are adding the information.
